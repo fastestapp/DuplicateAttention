@@ -1,0 +1,8 @@
+# Lambda Stack (Ubuntu 24.04) already provides: torch, CUDA/cuDNN/NCCL, driver.
+# Verify the preinstalled torch version supports H100 (Hopper, sm_90) -- PyTorch >=2.1
+# with CUDA 12.x. Do NOT pip-install a different torch build over Lambda Stack's unless
+# you've confirmed compatibility; log `pip freeze` after setup either way.
+
+sacremoses==0.1.1
+subword-nmt==0.3.8
+sacrebleu==2.4.3
