@@ -172,7 +172,4 @@ Kaiser, Ł., and Polosukhin, I. (2017).
 **Attention Is All You Need.**  
 *Advances in Neural Information Processing Systems 30.*
 
-## License
-
-No license is included automatically. Add an appropriate license before publishing if you want others to be able to reuse, modify, or redistribute the code.
 ```
